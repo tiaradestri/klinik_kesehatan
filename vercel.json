@@ -1,9 +1,5 @@
 {
-    "version": 2,
-    "framework": "laravel",
-    "commands": [
-        "npm install",
-        "npm run build"
-    ],
-    "outputDirectory": "public"
+  "version": 2,
+  "framework": "laravel",
+  "outputDirectory": "public"
 }
